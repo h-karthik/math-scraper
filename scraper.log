@@ -1,0 +1,232 @@
+2025-03-26 15:32:46,975 - INFO - Starting PMT Exam Paper Scraper
+2025-03-26 15:32:46,975 - INFO - Output directory: /Users/admin/Documents/GitHub/math-scraper/test_papers
+2025-03-26 15:32:46,975 - INFO - Tracking CSV: /Users/admin/Documents/GitHub/math-scraper/downloaded_papers.csv
+2025-03-26 15:32:46,975 - INFO - Configuration: edexcel_alevel
+2025-03-26 15:32:46,975 - INFO - Resume downloads: True
+2025-03-26 15:32:46,975 - INFO - Validate PDFs: True
+2025-03-26 15:32:46,976 - INFO - Created folder structure for Edexcel A-Level
+2025-03-26 15:32:46,977 - INFO - Created tracking CSV: /Users/admin/Documents/GitHub/math-scraper/downloaded_papers.csv
+2025-03-26 15:32:46,977 - INFO - Fetching main page: https://www.physicsandmathstutor.com/maths-revision/a-level-edexcel/papers/
+2025-03-26 15:32:47,155 - INFO - 
+Processing section: Paper 1 - Pure
+2025-03-26 15:32:47,157 - WARNING - Could not find section: Paper 1 - Pure
+2025-03-26 15:32:47,157 - INFO - 
+Processing section: Paper 2 - Pure
+2025-03-26 15:32:47,159 - WARNING - Could not find section: Paper 2 - Pure
+2025-03-26 15:32:47,159 - INFO - 
+Processing section: Paper 3 - Statistics & Mechanics
+2025-03-26 15:32:47,161 - WARNING - Could not find section: Paper 3 - Statistics & Mechanics
+2025-03-26 15:32:47,161 - INFO - Download complete. Paper information saved to /Users/admin/Documents/GitHub/math-scraper/downloaded_papers.csv
+2025-03-26 15:33:40,373 - INFO - Starting PMT Exam Paper Scraper
+2025-03-26 15:33:40,373 - INFO - Output directory: /Users/admin/Documents/GitHub/math-scraper/test_papers
+2025-03-26 15:33:40,373 - INFO - Tracking CSV: /Users/admin/Documents/GitHub/math-scraper/downloaded_papers.csv
+2025-03-26 15:33:40,374 - INFO - Configuration: edexcel_alevel
+2025-03-26 15:33:40,374 - INFO - Resume downloads: True
+2025-03-26 15:33:40,374 - INFO - Validate PDFs: True
+2025-03-26 15:33:40,375 - INFO - Created folder structure for Edexcel A-Level
+2025-03-26 15:33:40,375 - INFO - Using existing tracking file: /Users/admin/Documents/GitHub/math-scraper/downloaded_papers.csv
+2025-03-26 15:33:40,376 - INFO - Fetching main page: https://www.physicsandmathstutor.com/maths-revision/a-level-edexcel/papers/
+2025-03-26 15:33:40,561 - INFO - 
+Processing section: Paper 1
+2025-03-26 15:33:40,562 - INFO - Found 16 links for Paper 1
+2025-03-26 15:33:41,890 - DEBUG - Successfully downloaded: June 2018 QP.pdf
+2025-03-26 15:33:42,457 - DEBUG - Successfully downloaded: June 2019 QP.pdf
+2025-03-26 15:33:43,268 - DEBUG - Successfully downloaded: June 2022 QP.pdf
+2025-03-26 15:33:44,269 - DEBUG - Successfully downloaded: June 2023 QP.pdf
+2025-03-26 15:33:45,341 - DEBUG - Successfully downloaded: October 2020 QP.pdf
+2025-03-26 15:33:46,078 - DEBUG - Successfully downloaded: October 2021 QP.pdf
+2025-03-26 15:33:46,078 - DEBUG - Skipping Sample QP - Missing year metadata
+2025-03-26 15:33:46,078 - DEBUG - Skipping Specimen QP - Missing year metadata
+2025-03-26 15:33:46,862 - DEBUG - Successfully downloaded: June 2018 MS.pdf
+2025-03-26 15:33:47,613 - DEBUG - Successfully downloaded: June 2019 MS.pdf
+2025-03-26 15:33:48,233 - DEBUG - Successfully downloaded: June 2022 MS.pdf
+2025-03-26 15:33:49,267 - DEBUG - Successfully downloaded: June 2023 MS.pdf
+2025-03-26 15:33:50,342 - DEBUG - Successfully downloaded: October 2020 MS.pdf
+2025-03-26 15:33:51,092 - DEBUG - Successfully downloaded: October 2021 MS.pdf
+2025-03-26 15:33:51,093 - DEBUG - Skipping Sample MS - Missing year metadata
+2025-03-26 15:33:51,093 - DEBUG - Skipping Specimen MS - Missing year metadata
+2025-03-26 15:33:51,093 - INFO - Successfully downloaded 12 files for Paper 1
+2025-03-26 15:33:51,093 - INFO - 
+Processing section: Paper 2
+2025-03-26 15:33:51,094 - INFO - Found 16 links for Paper 2
+2025-03-26 15:33:52,139 - DEBUG - Successfully downloaded: June 2018 QP.pdf
+2025-03-26 15:33:52,986 - DEBUG - Successfully downloaded: June 2019 QP.pdf
+2025-03-26 15:33:54,041 - DEBUG - Successfully downloaded: June 2022 QP.pdf
+2025-03-26 15:33:55,038 - DEBUG - Successfully downloaded: June 2023 QP.pdf
+2025-03-26 15:33:56,097 - DEBUG - Successfully downloaded: October 2020 QP.pdf
+2025-03-26 15:33:56,818 - DEBUG - Successfully downloaded: October 2021 QP.pdf
+2025-03-26 15:33:56,819 - DEBUG - Skipping Sample QP - Missing year metadata
+2025-03-26 15:33:56,819 - DEBUG - Skipping Specimen QP - Missing year metadata
+2025-03-26 15:33:57,753 - DEBUG - Successfully downloaded: June 2018 MS.pdf
+2025-03-26 15:33:58,792 - DEBUG - Successfully downloaded: June 2019 MS.pdf
+2025-03-26 15:33:59,640 - DEBUG - Successfully downloaded: June 2022 MS.pdf
+2025-03-26 15:34:00,428 - DEBUG - Successfully downloaded: June 2023 MS.pdf
+2025-03-26 15:34:01,363 - DEBUG - Successfully downloaded: October 2020 MS.pdf
+2025-03-26 15:34:02,149 - DEBUG - Successfully downloaded: October 2021 MS.pdf
+2025-03-26 15:34:02,149 - DEBUG - Skipping Sample MS - Missing year metadata
+2025-03-26 15:34:02,149 - DEBUG - Skipping Specimen MS - Missing year metadata
+2025-03-26 15:34:02,149 - INFO - Successfully downloaded 12 files for Paper 2
+2025-03-26 15:34:02,149 - INFO - 
+Processing section: Paper 3
+2025-03-26 15:34:02,152 - WARNING - Could not find section anchor with id: paper3
+2025-03-26 15:34:02,152 - INFO - Download complete. Paper information saved to /Users/admin/Documents/GitHub/math-scraper/downloaded_papers.csv
+2025-03-26 15:34:39,159 - INFO - Starting PMT Exam Paper Scraper
+2025-03-26 15:34:39,159 - INFO - Output directory: /Users/admin/Documents/GitHub/math-scraper/test_papers
+2025-03-26 15:34:39,160 - INFO - Tracking CSV: /Users/admin/Documents/GitHub/math-scraper/downloaded_papers.csv
+2025-03-26 15:34:39,160 - INFO - Configuration: edexcel_alevel
+2025-03-26 15:34:39,160 - INFO - Resume downloads: True
+2025-03-26 15:34:39,160 - INFO - Validate PDFs: True
+2025-03-26 15:34:39,160 - INFO - Created folder structure for Edexcel A-Level
+2025-03-26 15:34:39,160 - INFO - Using existing tracking file: /Users/admin/Documents/GitHub/math-scraper/downloaded_papers.csv
+2025-03-26 15:34:39,161 - INFO - Fetching main page: https://www.physicsandmathstutor.com/maths-revision/a-level-edexcel/papers/
+2025-03-26 15:34:39,321 - INFO - 
+Processing section: Paper 1
+2025-03-26 15:34:39,322 - INFO - Found 16 links for Paper 1
+2025-03-26 15:34:39,349 - DEBUG - Skipping June 2018 QP.pdf - Already downloaded
+2025-03-26 15:34:39,349 - DEBUG - Skipping June 2019 QP.pdf - Already downloaded
+2025-03-26 15:34:39,349 - DEBUG - Skipping June 2022 QP.pdf - Already downloaded
+2025-03-26 15:34:39,349 - DEBUG - Skipping June 2023 QP.pdf - Already downloaded
+2025-03-26 15:34:39,350 - DEBUG - Skipping October 2020 QP.pdf - Already downloaded
+2025-03-26 15:34:39,350 - DEBUG - Skipping October 2021 QP.pdf - Already downloaded
+2025-03-26 15:34:39,350 - DEBUG - Skipping Sample QP - Missing year metadata
+2025-03-26 15:34:39,350 - DEBUG - Skipping Specimen QP - Missing year metadata
+2025-03-26 15:34:39,350 - DEBUG - Skipping June 2018 MS.pdf - Already downloaded
+2025-03-26 15:34:39,351 - DEBUG - Skipping June 2019 MS.pdf - Already downloaded
+2025-03-26 15:34:39,351 - DEBUG - Skipping June 2022 MS.pdf - Already downloaded
+2025-03-26 15:34:39,351 - DEBUG - Skipping June 2023 MS.pdf - Already downloaded
+2025-03-26 15:34:39,351 - DEBUG - Skipping October 2020 MS.pdf - Already downloaded
+2025-03-26 15:34:39,351 - DEBUG - Skipping October 2021 MS.pdf - Already downloaded
+2025-03-26 15:34:39,351 - DEBUG - Skipping Sample MS - Missing year metadata
+2025-03-26 15:34:39,351 - DEBUG - Skipping Specimen MS - Missing year metadata
+2025-03-26 15:34:39,352 - INFO - Successfully downloaded 0 files for Paper 1
+2025-03-26 15:34:39,352 - INFO - 
+Processing section: Paper 2
+2025-03-26 15:34:39,354 - INFO - Found 16 links for Paper 2
+2025-03-26 15:34:39,354 - DEBUG - Skipping June 2018 QP.pdf - Already downloaded
+2025-03-26 15:34:39,354 - DEBUG - Skipping June 2019 QP.pdf - Already downloaded
+2025-03-26 15:34:39,355 - DEBUG - Skipping June 2022 QP.pdf - Already downloaded
+2025-03-26 15:34:39,355 - DEBUG - Skipping June 2023 QP.pdf - Already downloaded
+2025-03-26 15:34:39,355 - DEBUG - Skipping October 2020 QP.pdf - Already downloaded
+2025-03-26 15:34:39,355 - DEBUG - Skipping October 2021 QP.pdf - Already downloaded
+2025-03-26 15:34:39,355 - DEBUG - Skipping Sample QP - Missing year metadata
+2025-03-26 15:34:39,355 - DEBUG - Skipping Specimen QP - Missing year metadata
+2025-03-26 15:34:39,355 - DEBUG - Skipping June 2018 MS.pdf - Already downloaded
+2025-03-26 15:34:39,355 - DEBUG - Skipping June 2019 MS.pdf - Already downloaded
+2025-03-26 15:34:39,355 - DEBUG - Skipping June 2022 MS.pdf - Already downloaded
+2025-03-26 15:34:39,355 - DEBUG - Skipping June 2023 MS.pdf - Already downloaded
+2025-03-26 15:34:39,355 - DEBUG - Skipping October 2020 MS.pdf - Already downloaded
+2025-03-26 15:34:39,355 - DEBUG - Skipping October 2021 MS.pdf - Already downloaded
+2025-03-26 15:34:39,355 - DEBUG - Skipping Sample MS - Missing year metadata
+2025-03-26 15:34:39,355 - DEBUG - Skipping Specimen MS - Missing year metadata
+2025-03-26 15:34:39,356 - INFO - Successfully downloaded 0 files for Paper 2
+2025-03-26 15:34:39,356 - INFO - 
+Processing section: Paper 3 - Statistics & Mechanics
+2025-03-26 15:34:39,358 - INFO - Found 26 links for Paper 3 - Statistics & Mechanics
+2025-03-26 15:34:39,358 - DEBUG - Skipping June 2018 QP.pdf - Already downloaded
+2025-03-26 15:34:40,428 - DEBUG - Successfully downloaded: June 2019 QP (Mech).pdf
+2025-03-26 15:34:41,030 - ERROR - Error processing June 2019 QP (Stats).pdf: [Errno 2] No such file or directory: '/Users/admin/Documents/GitHub/math-scraper/test_papers/Edexcel/ALEVEL/Paper_3/question_papers/June 2019 QP (Stats).pdf'
+2025-03-26 15:34:42,151 - DEBUG - Successfully downloaded: June 2022 QP (Mech).pdf
+2025-03-26 15:34:42,951 - ERROR - Error processing June 2022 QP (Stats).pdf: [Errno 2] No such file or directory: '/Users/admin/Documents/GitHub/math-scraper/test_papers/Edexcel/ALEVEL/Paper_3/question_papers/June 2022 QP (Stats).pdf'
+2025-03-26 15:34:44,062 - DEBUG - Successfully downloaded: June 2023 QP (Mech).pdf
+2025-03-26 15:34:45,051 - ERROR - Error processing June 2023 QP (Stats).pdf: [Errno 2] No such file or directory: '/Users/admin/Documents/GitHub/math-scraper/test_papers/Edexcel/ALEVEL/Paper_3/question_papers/June 2023 QP (Stats).pdf'
+2025-03-26 15:34:46,048 - DEBUG - Successfully downloaded: October 2020 QP (Mech).pdf
+2025-03-26 15:34:46,814 - ERROR - Error processing October 2020 QP (Stats).pdf: [Errno 2] No such file or directory: '/Users/admin/Documents/GitHub/math-scraper/test_papers/Edexcel/ALEVEL/Paper_3/question_papers/October 2020 QP (Stats).pdf'
+2025-03-26 15:34:47,737 - DEBUG - Successfully downloaded: October 2021 QP (Mech).pdf
+2025-03-26 15:34:48,321 - ERROR - Error processing October 2021 QP (Stats).pdf: [Errno 2] No such file or directory: '/Users/admin/Documents/GitHub/math-scraper/test_papers/Edexcel/ALEVEL/Paper_3/question_papers/October 2021 QP (Stats).pdf'
+2025-03-26 15:34:48,321 - DEBUG - Skipping Sample QP - Missing year metadata
+2025-03-26 15:34:48,322 - DEBUG - Skipping Specimen QP - Missing year metadata
+2025-03-26 15:34:48,322 - DEBUG - Skipping June 2018 MS.pdf - Already downloaded
+2025-03-26 15:34:49,121 - DEBUG - Successfully downloaded: June 2019 MS (Mech).pdf
+2025-03-26 15:34:49,720 - ERROR - Error processing June 2019 MS (Stats).pdf: [Errno 2] No such file or directory: '/Users/admin/Documents/GitHub/math-scraper/test_papers/Edexcel/ALEVEL/Paper_3/mark_schemes/June 2019 MS (Stats).pdf'
+2025-03-26 15:34:50,760 - DEBUG - Successfully downloaded: June 2022 MS (Mech).pdf
+2025-03-26 15:34:51,410 - ERROR - Error processing June 2022 MS (Stats).pdf: [Errno 2] No such file or directory: '/Users/admin/Documents/GitHub/math-scraper/test_papers/Edexcel/ALEVEL/Paper_3/mark_schemes/June 2022 MS (Stats).pdf'
+2025-03-26 15:34:52,557 - DEBUG - Successfully downloaded: June 2023 MS (Mech).pdf
+2025-03-26 15:34:53,149 - ERROR - Error processing June 2023 MS (Stats).pdf: [Errno 2] No such file or directory: '/Users/admin/Documents/GitHub/math-scraper/test_papers/Edexcel/ALEVEL/Paper_3/mark_schemes/June 2023 MS (Stats).pdf'
+2025-03-26 15:34:54,027 - DEBUG - Successfully downloaded: October 2020 MS (Mech).pdf
+2025-03-26 15:34:54,920 - ERROR - Error processing October 2020 MS (Stats).pdf: [Errno 2] No such file or directory: '/Users/admin/Documents/GitHub/math-scraper/test_papers/Edexcel/ALEVEL/Paper_3/mark_schemes/October 2020 MS (Stats).pdf'
+2025-03-26 15:34:55,778 - DEBUG - Successfully downloaded: October 2021 MS (Mech).pdf
+2025-03-26 15:34:56,722 - ERROR - Error processing October 2021 MS (Stats).pdf: [Errno 2] No such file or directory: '/Users/admin/Documents/GitHub/math-scraper/test_papers/Edexcel/ALEVEL/Paper_3/mark_schemes/October 2021 MS (Stats).pdf'
+2025-03-26 15:34:56,723 - DEBUG - Skipping Sample MS - Missing year metadata
+2025-03-26 15:34:56,723 - DEBUG - Skipping Specimen MS - Missing year metadata
+2025-03-26 15:34:56,723 - INFO - Successfully downloaded 10 files for Paper 3 - Statistics & Mechanics
+2025-03-26 15:34:56,723 - INFO - Download complete. Paper information saved to /Users/admin/Documents/GitHub/math-scraper/downloaded_papers.csv
+2025-03-26 15:35:23,626 - INFO - Starting PMT Exam Paper Scraper
+2025-03-26 15:35:23,626 - INFO - Output directory: /Users/admin/Documents/GitHub/math-scraper/test_papers
+2025-03-26 15:35:23,626 - INFO - Tracking CSV: /Users/admin/Documents/GitHub/math-scraper/downloaded_papers.csv
+2025-03-26 15:35:23,626 - INFO - Configuration: edexcel_alevel
+2025-03-26 15:35:23,626 - INFO - Resume downloads: True
+2025-03-26 15:35:23,626 - INFO - Validate PDFs: True
+2025-03-26 15:35:23,626 - INFO - Created folder structure for Edexcel A-Level
+2025-03-26 15:35:23,626 - INFO - Using existing tracking file: /Users/admin/Documents/GitHub/math-scraper/downloaded_papers.csv
+2025-03-26 15:35:23,627 - INFO - Fetching main page: https://www.physicsandmathstutor.com/maths-revision/a-level-edexcel/papers/
+2025-03-26 15:35:23,766 - INFO - 
+Processing section: Paper 1
+2025-03-26 15:35:23,768 - INFO - Found 16 links for Paper 1
+2025-03-26 15:35:23,791 - DEBUG - Skipping June 2018 QP.pdf - Already downloaded
+2025-03-26 15:35:23,791 - DEBUG - Skipping June 2019 QP.pdf - Already downloaded
+2025-03-26 15:35:23,791 - DEBUG - Skipping June 2022 QP.pdf - Already downloaded
+2025-03-26 15:35:23,791 - DEBUG - Skipping June 2023 QP.pdf - Already downloaded
+2025-03-26 15:35:23,791 - DEBUG - Skipping October 2020 QP.pdf - Already downloaded
+2025-03-26 15:35:23,791 - DEBUG - Skipping October 2021 QP.pdf - Already downloaded
+2025-03-26 15:35:23,791 - DEBUG - Skipping Sample QP - Missing year metadata
+2025-03-26 15:35:23,791 - DEBUG - Skipping Specimen QP - Missing year metadata
+2025-03-26 15:35:23,791 - DEBUG - Skipping June 2018 MS.pdf - Already downloaded
+2025-03-26 15:35:23,791 - DEBUG - Skipping June 2019 MS.pdf - Already downloaded
+2025-03-26 15:35:23,792 - DEBUG - Skipping June 2022 MS.pdf - Already downloaded
+2025-03-26 15:35:23,792 - DEBUG - Skipping June 2023 MS.pdf - Already downloaded
+2025-03-26 15:35:23,792 - DEBUG - Skipping October 2020 MS.pdf - Already downloaded
+2025-03-26 15:35:23,792 - DEBUG - Skipping October 2021 MS.pdf - Already downloaded
+2025-03-26 15:35:23,792 - DEBUG - Skipping Sample MS - Missing year metadata
+2025-03-26 15:35:23,792 - DEBUG - Skipping Specimen MS - Missing year metadata
+2025-03-26 15:35:23,792 - INFO - Successfully downloaded 0 files for Paper 1
+2025-03-26 15:35:23,792 - INFO - 
+Processing section: Paper 2
+2025-03-26 15:35:23,794 - INFO - Found 16 links for Paper 2
+2025-03-26 15:35:23,794 - DEBUG - Skipping June 2018 QP.pdf - Already downloaded
+2025-03-26 15:35:23,794 - DEBUG - Skipping June 2019 QP.pdf - Already downloaded
+2025-03-26 15:35:23,794 - DEBUG - Skipping June 2022 QP.pdf - Already downloaded
+2025-03-26 15:35:23,794 - DEBUG - Skipping June 2023 QP.pdf - Already downloaded
+2025-03-26 15:35:23,794 - DEBUG - Skipping October 2020 QP.pdf - Already downloaded
+2025-03-26 15:35:23,794 - DEBUG - Skipping October 2021 QP.pdf - Already downloaded
+2025-03-26 15:35:23,794 - DEBUG - Skipping Sample QP - Missing year metadata
+2025-03-26 15:35:23,794 - DEBUG - Skipping Specimen QP - Missing year metadata
+2025-03-26 15:35:23,794 - DEBUG - Skipping June 2018 MS.pdf - Already downloaded
+2025-03-26 15:35:23,794 - DEBUG - Skipping June 2019 MS.pdf - Already downloaded
+2025-03-26 15:35:23,795 - DEBUG - Skipping June 2022 MS.pdf - Already downloaded
+2025-03-26 15:35:23,795 - DEBUG - Skipping June 2023 MS.pdf - Already downloaded
+2025-03-26 15:35:23,795 - DEBUG - Skipping October 2020 MS.pdf - Already downloaded
+2025-03-26 15:35:23,795 - DEBUG - Skipping October 2021 MS.pdf - Already downloaded
+2025-03-26 15:35:23,795 - DEBUG - Skipping Sample MS - Missing year metadata
+2025-03-26 15:35:23,795 - DEBUG - Skipping Specimen MS - Missing year metadata
+2025-03-26 15:35:23,795 - INFO - Successfully downloaded 0 files for Paper 2
+2025-03-26 15:35:23,795 - INFO - 
+Processing section: Paper 3 - Statistics & Mechanics
+2025-03-26 15:35:23,797 - INFO - Found 26 links for Paper 3 - Statistics & Mechanics
+2025-03-26 15:35:23,797 - DEBUG - Skipping June 2018 QP.pdf - Already downloaded
+2025-03-26 15:35:23,797 - DEBUG - Skipping June 2019 QP (Mech).pdf - Already downloaded
+2025-03-26 15:35:24,676 - DEBUG - Successfully downloaded: June 2019 QP (Stats).pdf
+2025-03-26 15:35:24,677 - DEBUG - Skipping June 2022 QP (Mech).pdf - Already downloaded
+2025-03-26 15:35:25,330 - DEBUG - Successfully downloaded: June 2022 QP (Stats).pdf
+2025-03-26 15:35:25,330 - DEBUG - Skipping June 2023 QP (Mech).pdf - Already downloaded
+2025-03-26 15:35:26,264 - DEBUG - Successfully downloaded: June 2023 QP (Stats).pdf
+2025-03-26 15:35:26,264 - DEBUG - Skipping October 2020 QP (Mech).pdf - Already downloaded
+2025-03-26 15:35:27,033 - DEBUG - Successfully downloaded: October 2020 QP (Stats).pdf
+2025-03-26 15:35:27,033 - DEBUG - Skipping October 2021 QP (Mech).pdf - Already downloaded
+2025-03-26 15:35:28,029 - DEBUG - Successfully downloaded: October 2021 QP (Stats).pdf
+2025-03-26 15:35:28,030 - DEBUG - Skipping Sample QP - Missing year metadata
+2025-03-26 15:35:28,030 - DEBUG - Skipping Specimen QP - Missing year metadata
+2025-03-26 15:35:28,030 - DEBUG - Skipping June 2018 MS.pdf - Already downloaded
+2025-03-26 15:35:28,030 - DEBUG - Skipping June 2019 MS (Mech).pdf - Already downloaded
+2025-03-26 15:35:28,980 - DEBUG - Successfully downloaded: June 2019 MS (Stats).pdf
+2025-03-26 15:35:28,980 - DEBUG - Skipping June 2022 MS (Mech).pdf - Already downloaded
+2025-03-26 15:35:29,936 - DEBUG - Successfully downloaded: June 2022 MS (Stats).pdf
+2025-03-26 15:35:29,936 - DEBUG - Skipping June 2023 MS (Mech).pdf - Already downloaded
+2025-03-26 15:35:30,879 - DEBUG - Successfully downloaded: June 2023 MS (Stats).pdf
+2025-03-26 15:35:30,880 - DEBUG - Skipping October 2020 MS (Mech).pdf - Already downloaded
+2025-03-26 15:35:31,742 - DEBUG - Successfully downloaded: October 2020 MS (Stats).pdf
+2025-03-26 15:35:31,742 - DEBUG - Skipping October 2021 MS (Mech).pdf - Already downloaded
+2025-03-26 15:35:32,379 - DEBUG - Successfully downloaded: October 2021 MS (Stats).pdf
+2025-03-26 15:35:32,379 - DEBUG - Skipping Sample MS - Missing year metadata
+2025-03-26 15:35:32,380 - DEBUG - Skipping Specimen MS - Missing year metadata
+2025-03-26 15:35:32,380 - INFO - Successfully downloaded 10 files for Paper 3 - Statistics & Mechanics
+2025-03-26 15:35:32,380 - INFO - Download complete. Paper information saved to /Users/admin/Documents/GitHub/math-scraper/downloaded_papers.csv
