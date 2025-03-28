@@ -1,0 +1,96 @@
+Headers in the page:
+h1: Edexcel A-level Papers
+h4: PMT Mocks
+h5: Question Papers
+h5: Mark Schemes
+h4: Paper 1 – Pure
+h5: Question Papers
+h5: Mark Schemes
+h5: Model Answers
+h5: Video Solutions
+h4: Paper 2 – Pure
+h5: Question Papers
+h5: Mark Schemes
+h5: Model Answers
+h5: Video Solutions
+h4: Paper 3 – Statistics & Mechanics
+h5: Question Papers
+h5: Mark Schemes
+h5: Model Answers
+h5: Video Solutions
+h4: Madas/I.Y.G.B Papers – Pure
+h5: Question Papers
+h5: Solutions
+h4: Madas/I.Y.G.B Papers – Applied
+h5: Question Papers
+h5: Solutions
+h4: Naikermaths Paper 2 – Pure
+h5: Question Papers
+h5: Mark Schemes
+h4: Naikermaths Paper 3 – Mechanics
+h5: Question Papers
+h5: Mark Schemes
+h4: Old Spec Papers
+h5: Pure
+h5: Applied
+h3: Connect with PMT Education!
+
+Paper links found:
+Link text: June 2018 QP, href: https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel/Paper-1/QP/June 2018 QP.pdf
+Link text: June 2019 QP, href: https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel/Paper-1/QP/June 2019 QP.pdf
+Link text: June 2022 QP, href: https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel/Paper-1/QP/June 2022 QP.pdf
+Link text: June 2023 QP, href: https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel/Paper-1/QP/June 2023 QP.pdf
+Link text: October 2020 QP, href: https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel/Paper-1/QP/October 2020 QP.pdf
+Link text: October 2021 QP, href: https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel/Paper-1/QP/October 2021 QP.pdf
+Link text: Sample QP, href: https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel/Paper-1/QP/Sample QP.pdf
+Link text: Specimen QP, href: https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel/Paper-1/QP/Specimen QP.pdf
+Link text: June 2018 MS, href: https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel/Paper-1/MS/June 2018 MS.pdf
+Link text: June 2019 MS, href: https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel/Paper-1/MS/June 2019 MS.pdf
+Link text: June 2022 MS, href: https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel/Paper-1/MS/June 2022 MS.pdf
+Link text: June 2023 MS, href: https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel/Paper-1/MS/June 2023 MS.pdf
+Link text: October 2020 MS, href: https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel/Paper-1/MS/October 2020 MS.pdf
+Link text: October 2021 MS, href: https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel/Paper-1/MS/October 2021 MS.pdf
+Link text: Sample MS, href: https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel/Paper-1/MS/Sample MS.pdf
+Link text: Specimen MS, href: https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel/Paper-1/MS/Specimen MS.pdf
+Link text: June 2018 QP, href: https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel/Paper-2/QP/June 2018 QP.pdf
+Link text: June 2019 QP, href: https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel/Paper-2/QP/June 2019 QP.pdf
+Link text: June 2022 QP, href: https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel/Paper-2/QP/June 2022 QP.pdf
+Link text: June 2023 QP, href: https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel/Paper-2/QP/June 2023 QP.pdf
+Link text: October 2020 QP, href: https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel/Paper-2/QP/October 2020 QP.pdf
+Link text: October 2021 QP, href: https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel/Paper-2/QP/October 2021 QP.pdf
+Link text: Sample QP, href: https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel/Paper-2/QP/Sample QP.pdf
+Link text: Specimen QP, href: https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel/Paper-2/QP/Specimen QP.pdf
+Link text: June 2018 MS, href: https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel/Paper-2/MS/June 2018 MS.pdf
+Link text: June 2019 MS, href: https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel/Paper-2/MS/June 2019 MS.pdf
+Link text: June 2022 MS, href: https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel/Paper-2/MS/June 2022 MS.pdf
+Link text: June 2023 MS, href: https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel/Paper-2/MS/June 2023 MS.pdf
+Link text: October 2020 MS, href: https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel/Paper-2/MS/October 2020 MS.pdf
+Link text: October 2021 MS, href: https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel/Paper-2/MS/October 2021 MS.pdf
+Link text: Sample MS, href: https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel/Paper-2/MS/Sample MS.pdf
+Link text: Specimen MS, href: https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel/Paper-2/MS/Specimen MS.pdf
+Link text: June 2018 QP, href: https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel/Paper-3/QP/June 2018 QP.pdf
+Link text: June 2019 QP (Mech), href: https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel/Paper-3/QP/June 2019 QP (Mech).pdf
+Link text: June 2019 QP (Stats), href: https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel/Paper-3/QP/June 2019 QP (Stats).pdf
+Link text: June 2022 QP (Mech), href: https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel/Paper-3/QP/June 2022 QP (Mech).pdf
+Link text: June 2022 QP (Stats), href: https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel/Paper-3/QP/June 2022 QP (Stats).pdf
+Link text: June 2023 QP (Mech), href: https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel/Paper-3/QP/June 2023 QP (Mech).pdf
+Link text: June 2023 QP (Stats), href: https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel/Paper-3/QP/June 2023 QP (Stats).pdf
+Link text: October 2020 QP (Mech), href: https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel/Paper-3/QP/October 2020 QP (Mech).pdf
+Link text: October 2020 QP (Stats), href: https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel/Paper-3/QP/October 2020 QP (Stats).pdf
+Link text: October 2021 QP (Mech), href: https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel/Paper-3/QP/October 2021 QP (Mech).pdf
+Link text: October 2021 QP (Stats), href: https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel/Paper-3/QP/October 2021 QP (Stats).pdf
+Link text: Sample QP, href: https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel/Paper-3/QP/Sample QP.pdf
+Link text: Specimen QP, href: https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel/Paper-3/QP/Specimen QP.pdf
+Link text: June 2018 MS, href: https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel/Paper-3/MS/June 2018 MS.pdf
+Link text: June 2019 MS (Mech), href: https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel/Paper-3/MS/June 2019 MS (Mech).pdf
+Link text: June 2019 MS (Stats), href: https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel/Paper-3/MS/June 2019 MS (Stats).pdf
+Link text: June 2022 MS (Mech), href: https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel/Paper-3/MS/June 2022 MS (Mech).pdf
+Link text: June 2022 MS (Stats), href: https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel/Paper-3/MS/June 2022 MS (Stats).pdf
+Link text: June 2023 MS (Mech), href: https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel/Paper-3/MS/June 2023 MS (Mech).pdf
+Link text: June 2023 MS (Stats), href: https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel/Paper-3/MS/June 2023 MS (Stats).pdf
+Link text: October 2020 MS (Mech), href: https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel/Paper-3/MS/October 2020 MS (Mech).pdf
+Link text: October 2020 MS (Stats), href: https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel/Paper-3/MS/October 2020 MS (Stats).pdf
+Link text: October 2021 MS (Mech), href: https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel/Paper-3/MS/October 2021 MS (Mech).pdf
+Link text: October 2021 MS (Stats), href: https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel/Paper-3/MS/October 2021 MS (Stats).pdf
+Link text: Sample MS, href: https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel/Paper-3/MS/Sample MS.pdf
+Link text: Specimen MS, href: https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel/Paper-3/MS/Specimen MS.pdf
